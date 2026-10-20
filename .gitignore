@@ -1,0 +1,13 @@
+node_modules/
+.env
+data/
+uploads/*
+!uploads/.gitkeep
+*.log
+
+.env
+.env.*
+!.env.example
+node_modules/
+uploads/*
+!uploads/.gitkeep
